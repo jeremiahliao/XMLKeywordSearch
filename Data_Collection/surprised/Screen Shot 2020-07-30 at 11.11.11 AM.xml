@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Expressions Data</folder>
+	<filename>Screen Shot 2020-07-30 at 11.11.11 AM.png</filename>
+	<path>/Users/jeremiahliao/Desktop/Expressions Data/Screen Shot 2020-07-30 at 11.11.11 AM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2880</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprsied</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1661</xmin>
+			<ymin>382</ymin>
+			<xmax>1988</xmax>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+</annotation>

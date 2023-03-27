@@ -1,0 +1,38 @@
+<annotation>
+	<folder>untitled folder</folder>
+	<filename>Screen Shot 2020-07-17 at 6.09.05 PM.png</filename>
+	<path>/Users/jeremiahliao/Desktop/untitled folder/Screen Shot 2020-07-17 at 6.09.05 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2880</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surprised</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1063</xmin>
+			<ymin>794</ymin>
+			<xmax>1394</xmax>
+			<ymax>1122</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>surprised</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1341</xmin>
+			<ymin>288</ymin>
+			<xmax>1638</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+</annotation>

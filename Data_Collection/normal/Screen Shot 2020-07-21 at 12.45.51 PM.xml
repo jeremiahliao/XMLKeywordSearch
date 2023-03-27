@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Expressions Data</folder>
+	<filename>Screen Shot 2020-07-21 at 12.45.51 PM.png</filename>
+	<path>/Users/jeremiahliao/Desktop/Expressions Data/Screen Shot 2020-07-21 at 12.45.51 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2880</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1691</xmin>
+			<ymin>265</ymin>
+			<xmax>1811</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1436</xmin>
+			<ymin>349</ymin>
+			<xmax>1561</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2052</xmin>
+			<ymin>349</ymin>
+			<xmax>2205</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2399</xmin>
+			<ymin>237</ymin>
+			<xmax>2549</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

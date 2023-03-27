@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Expressions Data</folder>
+	<filename>Screen Shot 2020-07-23 at 9.27.54 PM.png</filename>
+	<path>/Users/jeremiahliao/Desktop/Expressions Data/Screen Shot 2020-07-23 at 9.27.54 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2880</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>disgust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>905</xmin>
+			<ymin>340</ymin>
+			<xmax>1405</xmax>
+			<ymax>1062</ymax>
+		</bndbox>
+	</object>
+</annotation>

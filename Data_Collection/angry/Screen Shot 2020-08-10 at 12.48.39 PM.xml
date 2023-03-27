@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Expressions Data</folder>
+	<filename>Screen Shot 2020-08-10 at 12.48.39 PM.png</filename>
+	<path>/Users/jeremiahliao/Desktop/Expressions Data/Screen Shot 2020-08-10 at 12.48.39 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2880</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1344</xmin>
+			<ymin>422</ymin>
+			<xmax>1527</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

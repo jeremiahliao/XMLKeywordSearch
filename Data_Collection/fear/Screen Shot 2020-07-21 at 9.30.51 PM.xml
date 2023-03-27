@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Expressions Data</folder>
+	<filename>Screen Shot 2020-07-21 at 9.30.51 PM.png</filename>
+	<path>/Users/jeremiahliao/Desktop/Expressions Data/Screen Shot 2020-07-21 at 9.30.51 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2880</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1088</xmin>
+			<ymin>185</ymin>
+			<xmax>1374</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

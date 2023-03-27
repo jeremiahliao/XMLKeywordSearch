@@ -1,0 +1,26 @@
+<annotation>
+	<folder>facial_expressions</folder>
+	<filename>IMG_2242.PNG</filename>
+	<path>/Users/jeremiahliao/Desktop/facial_expressions/IMG_2242.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>831</xmin>
+			<ymin>307</ymin>
+			<xmax>1415</xmax>
+			<ymax>1111</ymax>
+		</bndbox>
+	</object>
+</annotation>

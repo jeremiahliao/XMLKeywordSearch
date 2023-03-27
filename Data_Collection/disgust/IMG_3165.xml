@@ -1,0 +1,26 @@
+<annotation>
+	<folder>facial_expressions</folder>
+	<filename>IMG_3165.HEIC</filename>
+	<path>/Users/jeremiahliao/Desktop/facial_expressions/IMG_3165.HEIC</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>disgust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>1312</ymin>
+			<xmax>1382</xmax>
+			<ymax>2236</ymax>
+		</bndbox>
+	</object>
+</annotation>

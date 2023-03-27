@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Expressions Data</folder>
+	<filename>IMG_5042.HEIC</filename>
+	<path>/Users/jeremiahliao/Desktop/Expressions Data/IMG_5042.HEIC</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1266</xmin>
+			<ymin>778</ymin>
+			<xmax>1686</xmax>
+			<ymax>1246</ymax>
+		</bndbox>
+	</object>
+</annotation>

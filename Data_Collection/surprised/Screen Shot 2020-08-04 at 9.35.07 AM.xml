@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Expressions Data</folder>
+	<filename>Screen Shot 2020-08-04 at 9.35.07 AM.png</filename>
+	<path>/Users/jeremiahliao/Desktop/Expressions Data/Screen Shot 2020-08-04 at 9.35.07 AM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2880</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1066</xmin>
+			<ymin>535</ymin>
+			<xmax>1286</xmax>
+			<ymax>810</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>surprised</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1908</xmin>
+			<ymin>646</ymin>
+			<xmax>2088</xmax>
+			<ymax>896</ymax>
+		</bndbox>
+	</object>
+</annotation>

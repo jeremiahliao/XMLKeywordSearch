@@ -1,0 +1,26 @@
+<annotation>
+	<folder>facial_expressions</folder>
+	<filename>IMG_2062 1.PNG</filename>
+	<path>/Users/jeremiahliao/Desktop/facial_expressions/IMG_2062 1.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1139</xmin>
+			<ymin>398</ymin>
+			<xmax>1565</xmax>
+			<ymax>952</ymax>
+		</bndbox>
+	</object>
+</annotation>

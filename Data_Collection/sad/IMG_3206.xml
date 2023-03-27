@@ -1,0 +1,26 @@
+<annotation>
+	<folder>facial_expressions</folder>
+	<filename>IMG_3206.JPG</filename>
+	<path>/Users/jeremiahliao/Desktop/facial_expressions/IMG_3206.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>110</ymin>
+			<xmax>320</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

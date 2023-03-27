@@ -1,0 +1,26 @@
+<annotation>
+	<folder>facial_expressions</folder>
+	<filename>IMG_3132.HEIC</filename>
+	<path>/Users/jeremiahliao/Desktop/facial_expressions/IMG_3132.HEIC</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>799</xmin>
+			<ymin>1655</ymin>
+			<xmax>1857</xmax>
+			<ymax>2850</ymax>
+		</bndbox>
+	</object>
+</annotation>

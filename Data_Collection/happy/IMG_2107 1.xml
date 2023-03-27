@@ -1,0 +1,38 @@
+<annotation>
+	<folder>facial_expressions</folder>
+	<filename>IMG_2107 1.PNG</filename>
+	<path>/Users/jeremiahliao/Desktop/facial_expressions/IMG_2107 1.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1456</xmin>
+			<ymin>232</ymin>
+			<xmax>1795</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>789</xmin>
+			<ymin>459</ymin>
+			<xmax>1044</xmax>
+			<ymax>759</ymax>
+		</bndbox>
+	</object>
+</annotation>

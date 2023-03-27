@@ -1,0 +1,26 @@
+<annotation>
+	<folder>facial_expressions</folder>
+	<filename>IMG_2111.PNG</filename>
+	<path>/Users/jeremiahliao/Desktop/facial_expressions/IMG_2111.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1389</xmin>
+			<ymin>183</ymin>
+			<xmax>1679</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+</annotation>

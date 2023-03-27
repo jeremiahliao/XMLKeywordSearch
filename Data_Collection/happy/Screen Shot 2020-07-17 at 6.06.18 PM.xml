@@ -1,0 +1,26 @@
+<annotation>
+	<folder>untitled folder</folder>
+	<filename>Screen Shot 2020-07-17 at 6.06.18 PM.png</filename>
+	<path>/Users/jeremiahliao/Desktop/untitled folder/Screen Shot 2020-07-17 at 6.06.18 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2880</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2055</xmin>
+			<ymin>283</ymin>
+			<xmax>2458</xmax>
+			<ymax>783</ymax>
+		</bndbox>
+	</object>
+</annotation>

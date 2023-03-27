@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>facial_expressions</folder>
+	<filename>IMG_3145.HEIC</filename>
+	<path>/Users/jeremiahliao/Desktop/facial_expressions/IMG_3145.HEIC</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1426</xmin>
+			<ymin>1068</ymin>
+			<xmax>2250</xmax>
+			<ymax>2084</ymax>
+		</bndbox>
+	</object>
+</annotation>

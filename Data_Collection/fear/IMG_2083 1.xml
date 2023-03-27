@@ -1,0 +1,26 @@
+<annotation>
+	<folder>facial_expressions</folder>
+	<filename>IMG_2083 1.PNG</filename>
+	<path>/Users/jeremiahliao/Desktop/facial_expressions/IMG_2083 1.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>775</xmin>
+			<ymin>251</ymin>
+			<xmax>1277</xmax>
+			<ymax>929</ymax>
+		</bndbox>
+	</object>
+</annotation>

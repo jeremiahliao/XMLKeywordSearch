@@ -1,0 +1,26 @@
+<annotation>
+	<folder>facial_expressions</folder>
+	<filename>IMG_2008.PNG</filename>
+	<path>/Users/jeremiahliao/Desktop/facial_expressions/IMG_2008.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>659</xmin>
+			<ymin>193</ymin>
+			<xmax>1125</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>

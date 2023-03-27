@@ -1,0 +1,26 @@
+<annotation>
+	<folder>facial_expressions</folder>
+	<filename>IMG_3246.JPG</filename>
+	<path>/Users/jeremiahliao/Desktop/facial_expressions/IMG_3246.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1344</width>
+		<height>1792</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>363</ymin>
+			<xmax>1244</xmax>
+			<ymax>1277</ymax>
+		</bndbox>
+	</object>
+</annotation>

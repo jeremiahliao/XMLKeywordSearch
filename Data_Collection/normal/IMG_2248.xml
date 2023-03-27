@@ -1,0 +1,26 @@
+<annotation>
+	<folder>facial_expressions</folder>
+	<filename>IMG_2248.PNG</filename>
+	<path>/Users/jeremiahliao/Desktop/facial_expressions/IMG_2248.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>967</xmin>
+			<ymin>351</ymin>
+			<xmax>1301</xmax>
+			<ymax>849</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>facial_expressions</folder>
+	<filename>IMG_3195.JPG</filename>
+	<path>/Users/jeremiahliao/Desktop/facial_expressions/IMG_3195.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>21</ymin>
+			<xmax>174</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

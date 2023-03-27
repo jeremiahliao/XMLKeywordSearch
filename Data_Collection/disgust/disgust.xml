@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Expressions Data</folder>
+	<filename>disgust.jpeg</filename>
+	<path>/Users/jeremiahliao/Desktop/Expressions Data/disgust.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>disgust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>50</ymin>
+			<xmax>175</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>
